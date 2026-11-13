@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+dist/
+hackathon_board.db*
+.board_token
